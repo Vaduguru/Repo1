@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 42D5-77A1
+
+ Directory of E:\git
+
+03/15/2022  05:03 PM    <DIR>          .
+03/15/2022  05:03 PM    <DIR>          ..
+03/15/2022  05:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  414,108,618,752 bytes free
